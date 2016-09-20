@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Bitter', serif;
+    color: #00cccb;
+    padding-top: 50vh;
+}
+
+body {
+    font-family: 'Bitter', serif;
+	background-color: #2a2d32;
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+}
