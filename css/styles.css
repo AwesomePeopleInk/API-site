@@ -11,6 +11,11 @@ body {
     background-attachment: fixed;
 }
 
+a {
+    color: #00cccb;
+    text-decoration: none;
+}
+
 a:hover {
     color: #424242;
     text-decoration: none;
