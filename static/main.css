@@ -1,32 +1,31 @@
-
 body {
     background-color: #2a2d32;
     color: #ffffff;
 }
 
 /*
- * Navbar
- */
+* Navbar
+*/
 
 .navbar-default {
-    background-color: #424242;
-    border-bottom: 1px solid #00cccb;
+    background-color: #42454a;
+    border-bottom: 1px solid #365565;
 }
-
+ 
 .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
     color: #f2f2f2;
 }
-
+ 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
     color: #e5e5e5;
 }
-
+ 
 /*
- * Jumbotron
- */
+* Jumbotron
+*/
 
 .container .jumbotron {
-    background-color: #424242;
-    border: 1px solid #00cccb;
+    background-color: #42454a;
+    border: 1px solid #365565;
     border-radius: 1px;
 }
