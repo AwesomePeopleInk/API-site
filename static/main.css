@@ -9,7 +9,7 @@ body {
  */
 
 .navbar-default {
-    background-color: #42454a;
+    background-color: #424242;
     border-bottom: 1px solid #365565;
 }
 
@@ -27,6 +27,6 @@ body {
 
 .container .jumbotron {
     background-color: #42454a;
-    border: 1px solid #365565;
+    border: 1px solid #00cccb;
     border-radius: 1px;
 }
